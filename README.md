@@ -22,15 +22,14 @@
 - **Deliverables:** Two email drafts (extension request + internship inquiry) + 10-point etiquette checklist
 - **Location:** `task-4-email-etiquette/`
 
-  https://docs.google.com/forms/d/e/1FAIpQLSfF0QJZhqbXF0F2WOYCDgXO90kwOv4tmjWzQLgWM5UIovFujg/viewform?usp=preview
-
-
 ### ✅ Task 5: Cybercrime Awareness & Prevention
 - **Objective:** Build practical cyber safety habits for Indian college students
 - **Deliverables:** Case study analysis + "Stay Safe Online" checklist (8+ tips, UPI safety, reporting channels)
 - **Location:** `task-5-cybercrime/`
 
 ---
+
+Docs link : https://docs.google.com/forms/d/e/1FAIpQLSfF0QJZhqbXF0F2WOYCDgXO90kwOv4tmjWzQLgWM5UIovFujg/viewform?usp=preview
 
 ## 🔗 Key Resources & Reporting Channels
 
@@ -51,19 +50,4 @@
 4. **Reuse templates**: Email drafts (`task-4/`) and safety checklist (`task-5/`) are ready for your personal use.
 5. **Share awareness**: Distribute the prevention checklist with peers—cyber safety is a community effort.
 
----
 
-## 📬 Contact
-
-> 💬 *This project was created for academic purposes. Feedback and constructive suggestions are welcome.*  
-> ✉️ Email: [your.email@college.edu.in]  
-> 🔗 LinkedIn: [linkedin.com/in/yourprofile] *(optional)*
-
----
-
-> ⚠️ **Disclaimer**: All screenshots, names, and transaction details used in this project are either mock data, generated for demonstration, or used with explicit permission. No real passwords, OTPs, UPI PINs, or sensitive financial information are included.
-
----
-
-*✅ Verified against submission guidelines | Last updated: March 2026*  
-*🇮🇳 Created to support safer digital campuses across India*
