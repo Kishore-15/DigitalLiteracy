@@ -5,6 +5,8 @@ Do’s:
 - Respect others’ opinions
 - Verify information before sharing
 - Use privacy settings wisely
+
+
 Don’ts:
 - Do not share personal or sensitive information
 - Avoid posting offensive or inappropriate content
